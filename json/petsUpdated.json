@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "category": {
+    "id": 10,
+    "name": "Gato"
+  },
+  "name": "Miau",
+  "photoUrls": [
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Gato"
+    }
+  ],
+  "status": "available"
+}

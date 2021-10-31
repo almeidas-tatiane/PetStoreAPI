@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "category": {
+    "id": 10,
+    "name": "Cachorro"
+  },
+  "name": "Toto",
+  "photoUrls": [
+  ],
+  "tags": [
+    {
+      "id": 10,
+      "name": "Cachorro"
+    }
+  ],
+  "status": "available"
+}
